@@ -4,4 +4,5 @@ The tutorial which I followed,it's conducted by Code With Mosh(Mosh Hamedani)(ht
     1.app.ipynb - covering fundamentals of python
     2.python.pdf - cheatsheet for python prepared by Mosh
     3.Automation with python - simple excel spreadsheet automation
+    4.ML with Mosh - simple music recommend model
 
